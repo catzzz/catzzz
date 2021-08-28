@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Jimmy Leu
-- 🎯 Portfolio website: href="www.jimmyleu.com">Portfolio</a>
-- 📫 Jimmyleu76@gmail.com
-
-🛠Tech Stack
-<di>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +11,13 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- </div>
+
+- 👋 Hi, I’m Jimmy Leu
+- 🎯 Portfolio website: <a href="www.jimmyleu.com">Portfolio</a>
+- 📫 Jimmyleu76@gmail.com
+
+
+
 <!---
 catzzz/catzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
